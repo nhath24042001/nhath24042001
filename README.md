@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Nhat Huy</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+<a href="https://www.instagram.com/nhathuy1707/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhath24042001&label=Profile%20views&color=0e75b6&style=flat" alt="nhath24042001" /> </p>
 
