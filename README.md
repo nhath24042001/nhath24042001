@@ -1,126 +1,125 @@
-<h1 align="center">Xin chào, mình là Nhật Huy 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Middle Full-stack Developer</strong><br/>
-  Backend-heavy với TypeScript, Node.js/NestJS, Next.js/React, PostgreSQL, Redis, RabbitMQ, Docker & AWS
-</p>
+<!-- Typing tagline -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Building+scalable+backend+systems;Now+building+AI+agents+%F0%9F%A4%96;Node.js+%C2%B7+PostgreSQL+%C2%B7+RAG+%C2%B7+LLMs)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-</p>
+<!--
+  ONE PIECE BANNER — replace the src below with your own pick:
+  1. Go to https://giphy.com/explore/one-piece-luffy (or search "one piece" on giphy/tenor)
+  2. Open a GIF you like, click "Copy Link" (choose the *direct* .gif link, not the page link)
+  3. Paste it as the src here
+-->
+<img src="REPLACE_WITH_YOUR_ONE_PIECE_GIF_URL" width="100%" alt="One Piece banner — set sail 🏴‍☠️"/>
 
-<p align="center">
-  <a href="mailto:nguyenvannhathuy.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nguyenvannhathuy.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/nhath240401">
-    <img src="https://img.shields.io/badge/LinkedIn-Nh%E1%BA%ADt%20Huy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/nhath24042001">
-    <img src="https://img.shields.io/badge/GitHub-nhath24042001-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+# Hi, I'm Nguyen Van Nhat Huy 👋
 
-## 🌟 Về mình
+### Software Engineer · Backend systems & AI agents · Ho Chi Minh City, Vietnam 🇻🇳
 
-- Mình là **Middle Full-stack Developer với 3+ năm kinh nghiệm** xây dựng web applications và backend services cho môi trường production.
-- Thế mạnh chính của mình là **backend engineering** với **TypeScript, Node.js/NestJS, PostgreSQL, Redis, RabbitMQ, Docker và AWS**.
-- Mình có kinh nghiệm thiết kế **REST APIs**, **RBAC**, **multi-tenant systems**, **background jobs**, **real-time flows**, và tối ưu hiệu năng database.
-- Trong công việc, mình từng **lead nhóm giao hàng 5 người**, tham gia breakdown yêu cầu, code review, hỗ trợ junior, phối hợp QA/Product và xử lý issue production.
-- Mình cũng quan tâm tới **clean architecture**, **developer productivity**, và các hệ thống **AI/RAG cho bài toán nội bộ**.
+[![Portfolio](https://img.shields.io/badge/Portfolio-nhathuy.dev-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://nhathuy.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nhath240401-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nhath240401)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenvannhathuy.dev@gmail.com)
 
-## 🧰 Tech Stack
+</div>
 
-### Ngôn ngữ
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+---
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-4B5563?style=flat-square)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-7C3AED?style=flat-square)
-![Authentication](https://img.shields.io/badge/Auth-111827?style=flat-square)
+## About me
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+I spent 3+ years building production backend systems — multi-tenant healthcare
+platforms, automated reporting pipelines, and operations tooling on Node.js,
+PostgreSQL, and AWS. Today at **SiliconPrime** I apply that foundation to **AI
+agents for education**: RAG pipelines, agent orchestration, and realtime
+streaming at scale.
 
-### Database, Cache, Search
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-0F766E?style=flat-square)
-![Query Optimization](https://img.shields.io/badge/Query_Optimization-1F2937?style=flat-square)
+- 🔭 Currently building an AI agent platform for education (RAG + LLM orchestration + realtime streaming)
+- 🌱 Deepening AI engineering: vector search, agent tool-calling, prompt/context optimization
+- 💬 Ask me about PostgreSQL performance, event-driven backends, or shipping LLM features to production
+- 📫 Reach me at **nguyenvannhathuy.dev@gmail.com**
 
-### DevOps, Testing, AI
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-0F172A?style=flat-square)
+---
 
-## 🚀 Featured Projects
+## Tech stack
 
-### Public repositories
+**Languages**
 
-- **[OpsPilot](https://github.com/nhath24042001/OpsPilot)**  
-  AI-powered Incident & Knowledge Management Platform theo hướng production-style backend. Repo thể hiện rõ stack TypeScript backend với PostgreSQL, Redis, RabbitMQ, MinIO, Docker Compose, cùng local setup và API docs.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- **[ai-devkit](https://github.com/nhath24042001/ai-devkit)**  
-  Maintained fork / adaptation của một CLI toolkit cho AI-assisted software development. Nổi bật ở phần packaging, CLI workflow, template system và cách trình bày README rất hoàn chỉnh.
+**Backend**
 
-- **[agent-skills](https://github.com/nhath24042001/agent-skills)**  
-  Documentation-first knowledge base về Next.js skills, patterns và troubleshooting notes. Repo này phù hợp với hướng chia sẻ kiến thức, và mình đang tiếp tục làm rõ landing page/readme cho nó.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-### Selected production work
+**AI Engineering**
 
-- **Electronic Medical Record System**  
-  Xây dựng các thành phần backend cho nền tảng clinic & patient management với **multi-tenant RBAC**, medical record search optimization, background workers qua RabbitMQ, và file/document flows qua MinIO.
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- **MarketLens**  
-  Hệ thống data aggregation & automated reporting với ingestion pipelines, validation/normalization, batch optimization trên PostgreSQL, và CI/CD deployment lên AWS ECS bằng GitHub Actions.
+**Database & Messaging**
 
-- **OpsFilter**  
-  Nền tảng AI-powered contract & policy intelligence với workflow **RAG end-to-end**: document upload, parsing, chunking, embeddings, vector indexing bằng pgvector, Q&A API có source citation, và dashboard tra cứu tài liệu.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 
-## 📊 GitHub Stats
+**DevOps**
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nhath24042001&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhath24042001&layout=compact&langs_count=8&exclude_repo=nhath24042001,agent-skills&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<p align="center">
-  <a href="https://github.com/nhath24042001/OpsPilot">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=nhath24042001&repo=OpsPilot&theme=tokyonight&hide_border=true" alt="OpsPilot card" />
-  </a>
-  <a href="https://github.com/nhath24042001/ai-devkit">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=nhath24042001&repo=ai-devkit&theme=tokyonight&hide_border=true" alt="ai-devkit card" />
-  </a>
-</p>
+**Frontend**
 
-## 🤝 Liên hệ
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
-- Email: **nguyenvannhathuy.dev@gmail.com**
-- LinkedIn: **linkedin.com/in/nhath240401**
-- GitHub: **github.com/nhath24042001**
+---
 
-## 💬 Call to action
+## Featured work
 
-Nếu bạn đang tìm một **backend-heavy full-stack engineer** cho các hệ thống production với Node.js/NestJS, Next.js, PostgreSQL, Redis, RabbitMQ, Docker, AWS hoặc các bài toán AI/RAG nội bộ, mình rất sẵn sàng kết nối và trao đổi.
+| Project | What it does | Stack |
+|---|---|---|
+| [**EduAgent Platform**](https://nhathuy.dev/projects/eduagent) | AI tutoring agents for education — RAG over course materials, 5k+ learner sessions/day | NestJS · pgvector · LLM APIs |
+| [**Electronic Medical Record**](https://nhathuy.dev/projects/emr) | Multi-tenant clinic & hospital SaaS serving 12 clinics, 50k+ patient records | NestJS · PostgreSQL · RabbitMQ |
+| [**MarketLens**](https://nhathuy.dev/projects/marketlens) | Automated market reporting — turned a 2h manual process into <5min | Node.js · Redis · AWS ECS |
+| [**CaseFlow**](https://nhathuy.dev/projects/caseflow) | Support ticket & SLA platform — lifted SLA compliance from 72% to 95% | Express · PostgreSQL · WebSocket |
+
+More on [nhathuy.dev](https://nhathuy.dev) →
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nhath24042001&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhath24042001&layout=compact&theme=radical&hide_border=true" width="42%" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=nhath24042001&theme=radical&hide_border=true" width="60%" alt="GitHub streak stats" />
+
+</div>
+
+<!--
+  Snake contribution animation — generated by a GitHub Action (see
+  github-profile-snake-workflow.yml). It won't render until that workflow
+  runs at least once and creates the `output` branch.
+-->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nhath24042001/nhath24042001/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark" />
+  <img src="https://raw.githubusercontent.com/nhath24042001/nhath24042001/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation light" />
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=nhath24042001&color=00d9ff&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+
+</div>
